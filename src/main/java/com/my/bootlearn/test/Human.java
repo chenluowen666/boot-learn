@@ -1,4 +1,4 @@
-package com.my.bootlearn;
+package com.my.bootlearn.test;
 
 
 import lombok.Data;
