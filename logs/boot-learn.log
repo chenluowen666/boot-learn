@@ -1,13 +1,26 @@
-2026-02-18 23:47:12.578 INFO  [main] c.my.bootlearn.BootLearnApplication - Starting BootLearnApplication using Java 17.0.18 with PID 31788 (C:\Users\37428\IdeaProjects\boot-learn\target\classes started by chenluowen in C:\Users\37428\IdeaProjects\boot-learn)
-2026-02-18 23:47:12.580 INFO  [main] c.my.bootlearn.BootLearnApplication - No active profile set, falling back to 1 default profile: "default"
-2026-02-18 23:47:12.965 WARN  [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.my.bootlearn.dao]' package. Please check your configuration.
-2026-02-18 23:47:13.165 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2026-02-18 23:47:13.175 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2026-02-18 23:47:13.176 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
-2026-02-18 23:47:13.176 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.15]
-2026-02-18 23:47:13.215 INFO  [main] o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 603 ms
-2026-02-18 23:47:13.503 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2026-02-18 23:47:13.519 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2026-02-18 23:47:13.522 INFO  [main] c.my.bootlearn.BootLearnApplication - Started BootLearnApplication in 1.454 seconds (process running for 1.875)
-2026-02-18 23:47:39.413 INFO  [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
-2026-02-18 23:47:39.665 INFO  [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-02-19 00:00:23.775 INFO  [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-19 00:00:24.011 INFO  [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-02-19 00:00:25.571 INFO  [main] c.my.bootlearn.BootLearnApplication - Starting BootLearnApplication using Java 17.0.18 with PID 41572 (C:\Users\37428\IdeaProjects\boot-learn\target\classes started by chenluowen in C:\Users\37428\IdeaProjects\boot-learn)
+2026-02-19 00:00:25.573 INFO  [main] c.my.bootlearn.BootLearnApplication - No active profile set, falling back to 1 default profile: "default"
+2026-02-19 00:00:25.904 WARN  [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.my.bootlearn.dao]' package. Please check your configuration.
+2026-02-19 00:00:26.079 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-02-19 00:00:26.086 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-02-19 00:00:26.087 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-02-19 00:00:26.087 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-19 00:00:26.123 INFO  [main] o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 519 ms
+2026-02-19 00:00:26.384 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-02-19 00:00:26.396 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-02-19 00:00:26.399 INFO  [main] c.my.bootlearn.BootLearnApplication - Started BootLearnApplication in 1.181 seconds (process running for 1.56)
+2026-02-19 00:01:35.140 INFO  [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-02-19 00:01:35.374 INFO  [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-02-19 00:01:36.928 INFO  [main] c.my.bootlearn.BootLearnApplication - Starting BootLearnApplication using Java 17.0.18 with PID 41284 (C:\Users\37428\IdeaProjects\boot-learn\target\classes started by chenluowen in C:\Users\37428\IdeaProjects\boot-learn)
+2026-02-19 00:01:36.930 INFO  [main] c.my.bootlearn.BootLearnApplication - No active profile set, falling back to 1 default profile: "default"
+2026-02-19 00:01:37.256 WARN  [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.my.bootlearn.dao]' package. Please check your configuration.
+2026-02-19 00:01:37.425 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-02-19 00:01:37.432 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-02-19 00:01:37.433 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-02-19 00:01:37.433 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.15]
+2026-02-19 00:01:37.469 INFO  [main] o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 510 ms
+2026-02-19 00:01:37.724 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-02-19 00:01:37.736 INFO  [main] o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-02-19 00:01:37.740 INFO  [main] c.my.bootlearn.BootLearnApplication - Started BootLearnApplication in 1.151 seconds (process running for 1.506)

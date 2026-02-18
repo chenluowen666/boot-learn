@@ -1,21 +1,15 @@
 package com.my.bootlearn;
 
-import com.my.bootlearn.test.Human;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
-import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
-@EnableConfigurationProperties(Human.class)
 @MapperScan("com.my.bootlearn.dao")
 public class BootLearnApplication {
 
     public static void main(String[] args) {
-        ConfigurableApplicationContext app = SpringApplication.run(BootLearnApplication.class, args);
-        Human bean = app.getBean(Human.class);
-        System.out.println(bean);
+        SpringApplication.run(BootLearnApplication.class, args);
     }
 
 }

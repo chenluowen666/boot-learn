@@ -1,0 +1,12 @@
+
+${AnsiColor.BRIGHT_CYAN}
+  _____       ___       __   __       ___  
+ /  ___|     / _ \      \ \ / /      / _ \ 
+ | |        / |_| \      \ V /      / |_| \
+ | |___    /  _ _  \      | |      /  _ _  \
+ \_____|  /_/     \_\     |_|     /_/     \_\
+${AnsiColor.BRIGHT_MAGENTA}
+        ★ ★ ★  Welcome to CAYA  ★ ★ ★
+${AnsiColor.DEFAULT}
+ :: Spring Boot :: ${spring-boot.formatted-version}
+
